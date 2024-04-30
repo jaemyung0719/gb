@@ -1,0 +1,120 @@
+신동하: BackEnd / Front
+김재명: Front / Back
+김민준: Front / Back /Bridge
+이지항: Bridge (서버) / Front / Back 
+
+(인프런)
+https://www.inflearn.com/
+ID: wwww0541@nate.com
+PW: 할망구2
+
+[github]
+
+=============================================
+- 분기국사 실위치 지도 / 사진
+  . 최근 이슈 (date 정리)
+  . 사진/영상
+  . 온도경보
+  .. 아쉬운점: 사진/영상
+
+- VoC: 얹히면 될듯
+  . 의견: 실제 장비에서 올라오는 로그만이라도 올라오는 모습을
+    보여줌
+
+- 네비게이션 + 측정루트
+
+- 열화상 카메라 두고, : 운용자에게 알려주기
+
+
+<그룹명>
+신동하 김민준 이지항 김재명
+유선
+분기국사
+지도
+웹/앱
+
+'Mapcro'
+
+'Map' + Vi'sual' + Q레'이'터 = MapQ
+매츄리
+
+'무인'국사 관리 시스템
+"MMS"
+
+전화국 Q레이터 시스템
+
+전화국 Q레이터 Map
+
+국사+Q레이터 
+
+경기북부 
+<비주얼 Q레이터>
+BBQ
+
+<VVQ>
+<Visual View Q레이터>
+[ViViQ]
+
+
+<Visual VIbe Q레이터>
+
+BBQ
+
+VQ
+
+CentralOffice 
+Node
+
+
+< Q레이터 >
+
+시각화 = Visualization
+
+멥피스
+Map + 멤피스
+
+See + the Map 
+New2김
+
+분기국사 올씽아이
+AS2
+
+경기북부 AS2
+Map양갱
+
+~~ Eyes
+KBB Eyes
+GBB 
+'아이브' 
+
+자비스
+GB비스
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
